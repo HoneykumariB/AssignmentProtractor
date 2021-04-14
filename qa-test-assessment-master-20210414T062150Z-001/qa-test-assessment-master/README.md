@@ -66,6 +66,9 @@ Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.
 ## Running end-to-end tests
 
 Run `ng e2e` or `npm run e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+Or in case of issue 
+run ng serve and wait to get compiling finished 
+then run protractor protractor.conf.js
 
 ## Further help
 
